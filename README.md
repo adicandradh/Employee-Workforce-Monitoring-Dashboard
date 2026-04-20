@@ -6,7 +6,7 @@ Fokus utama dari project ini adalah bagaimana data karyawan yang masih mentah da
 ## 🎯 Objectives
 - Menyajikan ringkasan dan analisis data karyawan melalui KPI dan visualisasi
 - Menampilkan detail data karyawan secara individual
-- Mengevaluasi performa karyawan
+- Mengevaluasi performa KPI karyawan
 - Menganalisis gaji pokok dan gaji bonus berdasarkan jabatan dan performa KPI
 - Menganalisis tren jumlah karyawan dari waktu ke waktu
 ## 🧠 Data Processing
@@ -23,11 +23,10 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Data cleaning
 - Basic data transformation
 - Lookup functions (XLOOKUP)
-- Pivot table
+- Pivot table & pivot chart
 - Data visualization & dashboard design
 ## 🖼️ Preview
 <img width="1867" height="887" alt="image" src="https://github.com/user-attachments/assets/a210c0bb-00a8-42af-a1da-9e2e0a297b8c" />
-
 
 ## 📊 Dashboard Highlights
 - KPI summary
@@ -35,9 +34,10 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Analisis gaji pokok dan gaji bonus
 - Tren pertumbuhan karyawan dari waktu ke waktu
 - Distribusi jenis kelamin
-- Filter interaktif untuk eksplorasi data
+- Slicer interaktif untuk eksplorasi data
 ## 📈 Key Insights
 - Saat ini total karyawan berjumlah 123 orang dengan rata-rata usia 36,6 tahun. Rata-rata KPI berada di angka 78,3%, yang menunjukkan performa secara umum sudah cukup baik. Namun, masih memiliki ruang untuk peningkatan.
+- Total kompensasi yang dibayarkan (gaji pokok dan bonus) mencapai Rp1,27 miliar, memberikan gambaran besarnya biaya tenaga kerja secara keseluruhan.
 - Dari sisi struktur organisasi, komposisi karyawan masih didominasi oleh posisi Staff dan Senior Staff, sementara jumlah pada level manajerial relatif lebih sedikit.
 - Dari sisi alokasi tenaga kerja, terdapat konsentrasi karyawan pada divisi Finance, Marketing, dan Production, sementara beberapa divisi lain memiliki jumlah karyawan yang lebih terbatas.
 - Berdasarkan lokasi, sebagian besar karyawan berada di Jakarta, yang menunjukkan konsentrasi tenaga kerja pada satu wilayah utama.
