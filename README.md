@@ -13,7 +13,7 @@ Fokus utama dari project ini adalah bagaimana data karyawan yang masih mentah da
 - Menganalisis tren jumlah karyawan dari waktu ke waktu
 ## 🧠 Data Processing
 Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliputi:
-- Data cleaning untuk memastikan data rapi dan konsisten
+- Data cleaning untuk memastikan konsistensi format data
 - Pembuatan calculated fields
 - Penyesuaian format data
 - Penggunaan lookup functions untuk melengkapi dan menghubungkan data
@@ -31,12 +31,12 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 <img width="1867" height="887" alt="image" src="https://github.com/user-attachments/assets/a210c0bb-00a8-42af-a1da-9e2e0a297b8c" />
 
 ## 📊 Dashboard Highlights
-- KPI summary
+- KPI summary (jumlah karyawan, rata-rata usia karyawan, rata-rata performa KPI, total gaji dibayarkan)
 - Distribusi karyawan berdasarkan jabatan, divisi, dan lokasi
 - Analisis gaji pokok dan gaji bonus
 - Tren pertumbuhan karyawan dari waktu ke waktu
 - Distribusi jenis kelamin
-- Slicer interaktif untuk eksplorasi data
+- Slicer interaktif (base, divisi, jabatan, dan tipe karyawan) untuk eksplorasi data
 ## 📈 Key Insights
 - Saat ini total karyawan berjumlah 123 orang dengan rata-rata usia 36,6 tahun. Rata-rata KPI berada di angka 78,3%, yang menunjukkan performa secara umum sudah cukup baik. Namun, masih memiliki ruang untuk peningkatan.
 - Total kompensasi yang dibayarkan (gaji pokok dan bonus) mencapai Rp1,27 miliar, memberikan gambaran besarnya biaya tenaga kerja secara keseluruhan.
