@@ -9,4 +9,4 @@ This project presents as interactive Employee & Workforce Monitoring Dashboard b
 - Assess salary and bonus allocation across positions
 - Identify workforce trends over time
 - Explore employee demographics (age and gender)
-🛠️ Tools & Skills
+## 🛠️ Tools & Skills
