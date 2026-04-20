@@ -1,6 +1,4 @@
 # Employee Workforce Monitoring Dashboard (Excel)
-## 📌 Project Type
-Proyek Pribadi (Portofolio)
 ## 📊 Overview
 Project ini merupakan dashboard interaktif berbasis Microsoft Excel yang dikembangkan untuk menganalisis data karyawan dan menyajikan informasi secara lebih terstruktur.
 
