@@ -29,6 +29,7 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Data visualization & dashboard design
 ## 🖼️ Preview
 <img width="1867" height="889" alt="image" src="https://github.com/user-attachments/assets/a6c7dbcf-84c8-4f24-b362-9b25a26d7b48" />
+
 ## 📊 Dashboard Highlights
 - KPI summary
 - Distribusi karyawan berdasarkan jabatan, divisi, dan lokasi
