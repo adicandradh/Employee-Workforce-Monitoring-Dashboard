@@ -38,4 +38,10 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Distribusi jenis kelamin
 - Filter interaktif untuk eksplorasi data
 ## 📈 Key Insights
-- 
+- Saat ini total karyawan berjumlah 123 orang dengan rata-rata usia 36,6 tahun. Rata-rata KPI berada di angka 78,3%, yang menunjukkan performa secara umum sudah cukup baik. Namun, masih memiliki ruang untuk peningkatan.
+- Dari sisi struktur organisasi, komposisi karyawan masih didominasi oleh posisi Staff dan Senior Staff, sementara jumlah pada level manajerial relatif lebih sedikit.
+- Dari sisi alokasi tenaga kerja, terdapat konsentrasi karyawan pada divisi Finance, Marketing, dan Production, sementara beberapa divisi lain memiliki jumlah karyawan yang lebih terbatas.
+- Berdasarkan lokasi, sebagian besar karyawan berada di Jakarta, yang menunjukkan konsentrasi tenaga kerja pada satu wilayah utama.
+- Dari sisi kompensasi, terdapat perbedaan yang cukup jelas antar jabatan, di mana posisi General Manager memiliki total gaji pokok tertinggi, diikuti oleh Supervisor dan Senior Manager.
+- Pemberian bonus tidak merata di seluruh jabatan, dan dipengaruhi oleh kombinasi jabatan serta performa KPI (>90%), yang mencerminkan adanya mekanisme insentif berbasis kinerja.
+- Dari sisi demografi, komposisi karyawan antara laki-laki dan perempuan relatif seimbang.
