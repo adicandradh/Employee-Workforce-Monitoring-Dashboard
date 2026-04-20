@@ -28,7 +28,8 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Pivot table
 - Data visualization & dashboard design
 ## 🖼️ Preview
-<img width="1867" height="889" alt="image" src="https://github.com/user-attachments/assets/a6c7dbcf-84c8-4f24-b362-9b25a26d7b48" />
+<img width="1867" height="887" alt="image" src="https://github.com/user-attachments/assets/a210c0bb-00a8-42af-a1da-9e2e0a297b8c" />
+
 
 ## 📊 Dashboard Highlights
 - KPI summary
