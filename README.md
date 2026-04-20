@@ -31,7 +31,7 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 <img width="1867" height="887" alt="image" src="https://github.com/user-attachments/assets/a210c0bb-00a8-42af-a1da-9e2e0a297b8c" />
 
 ## 📊 Dashboard Highlights
-- KPI summary (jumlah karyawan, rata-rata usia karyawan, rata-rata performa KPI, total gaji dibayarkan)
+- KPI summary (jumlah karyawan, rata-rata usia karyawan, rata-rata performa KPI, dan total gaji dibayarkan)
 - Distribusi karyawan berdasarkan jabatan, divisi, dan lokasi
 - Analisis gaji pokok dan gaji bonus
 - Tren pertumbuhan karyawan dari waktu ke waktu
