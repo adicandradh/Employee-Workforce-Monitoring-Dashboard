@@ -11,13 +11,13 @@ Fokus utama dari project ini adalah bagaimana data karyawan yang masih mentah da
 - Mengevaluasi performa KPI karyawan
 - Menganalisis gaji pokok dan gaji bonus berdasarkan jabatan dan performa KPI
 - Menganalisis tren jumlah karyawan dari waktu ke waktu
-## 🧠 Data Processing
+## ⚙️ Data Processing
 Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliputi:
 - Data cleaning untuk memastikan konsistensi format data
 - Pembuatan calculated fields
 - Penyesuaian format data
 - Penggunaan lookup functions untuk melengkapi dan menghubungkan data
-## ⚙️ Business Logic
+## 🧠 Business Logic
 - Gaji pokok ditentukan berdasarkan jabatan
 - Gaji bonus ditentukan berdasarkan jabatan dan performa KPI (>90%)
 ## 🛠️ Tools & Skills
