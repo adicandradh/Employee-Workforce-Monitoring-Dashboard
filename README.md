@@ -31,18 +31,11 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 <img width="1869" height="891" alt="image" src="https://github.com/user-attachments/assets/d92975fd-3f82-4c28-ade2-b910d0277961" />
 
 ## 📊 Dashboard Highlights
-- KPI summary (jumlah karyawan, rata-rata usia karyawan, rata-rata performa KPI, dan total gaji dibayarkan)
-- Distribusi karyawan berdasarkan jabatan, divisi, dan lokasi
-- Analisis gaji pokok dan gaji bonus
-- Tren pertumbuhan karyawan dari waktu ke waktu
-- Distribusi jenis kelamin
-- Slicer interaktif (base, divisi, jabatan, dan tipe karyawan) untuk eksplorasi data
-## 📈 Key Insights
-- Saat ini total karyawan berjumlah 123 orang dengan rata-rata usia 36,6 tahun. Rata-rata KPI berada di angka 78,3%, yang menunjukkan performa secara umum sudah cukup baik. Namun, masih memiliki ruang untuk peningkatan.
-- Total kompensasi yang dibayarkan (gaji pokok dan bonus) mencapai Rp1,27 miliar, memberikan gambaran besarnya biaya tenaga kerja secara keseluruhan.
-- Dari sisi struktur organisasi, komposisi karyawan masih didominasi oleh posisi Staff dan Senior Staff, sementara jumlah pada level manajerial relatif lebih sedikit.
-- Dari sisi alokasi tenaga kerja, terdapat konsentrasi karyawan pada divisi Finance, Marketing, dan Production, sementara beberapa divisi lain memiliki jumlah karyawan yang lebih terbatas.
-- Berdasarkan lokasi, sebagian besar karyawan berada di Jakarta, yang menunjukkan konsentrasi tenaga kerja pada satu wilayah utama.
-- Dari sisi kompensasi, terdapat perbedaan yang cukup jelas antar jabatan, di mana posisi General Manager memiliki total gaji pokok tertinggi, diikuti oleh Supervisor dan Senior Manager.
-- Pemberian bonus tidak merata di seluruh jabatan, dan dipengaruhi oleh kombinasi jabatan serta performa KPI (>90%), yang mencerminkan adanya mekanisme insentif berbasis kinerja.
-- Dari sisi demografi, komposisi karyawan antara laki-laki dan perempuan relatif seimbang.
+- Perusahaan memiliki 123 karyawan dengan rata-rata usia 36,6 tahun dan rata-rata performa KPI sebesar 78,3%. Hal ini menunjukkan bahwa secara umum performa karyawan berada pada tingkat yang cukup baik, meskipun masih terdapat ruang untuk peningkatan agar lebih banyak karyawan mencapai target performa yang lebih tinggi.
+- Total kompensasi yang dibayarkan perusahaan mencapai Rp1,27 miliar, yang mencerminkan besarnya investasi perusahaan terhadap sumber daya manusia serta pentingnya pengelolaan biaya tenaga kerja secara efektif.
+- Struktur organisasi masih didominasi oleh posisi operasional. Senior Staff (35 karyawan), Staff (32 karyawan), dan Supervisor (28 karyawan) merupakan kelompok jabatan dengan jumlah karyawan terbesar, atau sekitar 77% dari total tenaga kerja. Sementara itu, posisi manajerial dan eksekutif memiliki jumlah yang relatif lebih sedikit.
+- Dari sisi divisi, tenaga kerja paling banyak berada pada Finance (24 karyawan), Marketing (21 karyawan), dan Production (20 karyawan). Konsentrasi ini menunjukkan bahwa sebagian besar sumber daya perusahaan difokuskan pada fungsi pendukung bisnis dan operasional utama.
+- Distribusi lokasi kerja menunjukkan ketimpangan yang cukup signifikan. Jakarta menampung 109 dari 123 karyawan (88,6%), sedangkan lima lokasi lainnya hanya menampung 14 karyawan (11,4%) secara keseluruhan. Hal ini menunjukkan tingginya konsentrasi tenaga kerja pada satu wilayah utama.
+- Dari sisi kompensasi, General Manager memiliki total gaji pokok tertinggi sebesar Rp275 juta, diikuti oleh Supervisor sebesar Rp196 juta dan Senior Manager sebesar Rp180 juta. Perbedaan ini mencerminkan struktur remunerasi yang meningkat seiring tingginya tanggung jawab jabatan.
+- Distribusi bonus menunjukkan bahwa insentif tidak diberikan secara merata pada seluruh jabatan. Senior Manager menerima total bonus terbesar sebesar Rp108 juta, diikuti oleh Supervisor sebesar Rp49 juta dan Senior Staff sebesar Rp40 juta. Hal ini sejalan dengan kebijakan perusahaan yang memberikan bonus berdasarkan kombinasi jabatan dan pencapaian KPI di atas 90%.
+- Komposisi karyawan berdasarkan jenis kelamin relatif seimbang, dengan 67 karyawan laki-laki (54%) dan 56 karyawan perempuan (46%). Distribusi ini menunjukkan representasi tenaga kerja yang cukup proporsional antara kedua kelompok.
