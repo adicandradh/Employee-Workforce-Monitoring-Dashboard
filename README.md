@@ -28,7 +28,7 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 - Pivot table & pivot chart
 - Data visualization & dashboard design
 ## 🖼️ Preview
-<img width="1867" height="887" alt="image" src="https://github.com/user-attachments/assets/a210c0bb-00a8-42af-a1da-9e2e0a297b8c" />
+<img width="1869" height="891" alt="image" src="https://github.com/user-attachments/assets/d92975fd-3f82-4c28-ade2-b910d0277961" />
 
 ## 📊 Dashboard Highlights
 - KPI summary (jumlah karyawan, rata-rata usia karyawan, rata-rata performa KPI, dan total gaji dibayarkan)
