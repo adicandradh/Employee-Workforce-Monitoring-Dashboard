@@ -30,7 +30,7 @@ Data dipersiapkan agar siap digunakan dalam analisis, langkah-langkahnya meliput
 ## 🖼️ Preview
 <img width="1869" height="891" alt="image" src="https://github.com/user-attachments/assets/d92975fd-3f82-4c28-ade2-b910d0277961" />
 
-## 📊 Dashboard Highlights
+## 📊 Insights
 - Perusahaan memiliki 123 karyawan dengan rata-rata usia 36,6 tahun dan rata-rata performa KPI sebesar 78,3%. Hal ini menunjukkan bahwa secara umum performa karyawan berada pada tingkat yang cukup baik, meskipun masih terdapat ruang untuk peningkatan agar lebih banyak karyawan mencapai target performa yang lebih tinggi.
 - Total kompensasi yang dibayarkan perusahaan mencapai Rp1,27 miliar, yang mencerminkan besarnya investasi perusahaan terhadap sumber daya manusia serta pentingnya pengelolaan biaya tenaga kerja secara efektif.
 - Struktur organisasi masih didominasi oleh posisi operasional. Senior Staff (35 karyawan), Staff (32 karyawan), dan Supervisor (28 karyawan) merupakan kelompok jabatan dengan jumlah karyawan terbesar, atau sekitar 77% dari total tenaga kerja. Sementara itu, posisi manajerial dan eksekutif memiliki jumlah yang relatif lebih sedikit.
