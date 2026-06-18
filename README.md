@@ -1,4 +1,4 @@
-# Employee Workforce Monitoring Dashboard (Excel)
+# Employee Workforce Monitoring Dashboard
 ## 📌 Project Type
 Personal Task Advanced (Excel Basic to Advanced: Fullstack Intensive Bootcamp Batch 32 – MySkill)
 ## 📊 Overview
